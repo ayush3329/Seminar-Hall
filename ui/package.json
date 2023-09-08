@@ -1,0 +1,15 @@
+{
+  "name": "@ayush/ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dest/Server.js",
+  "scripts": {
+    "dev": "nodemon dest/Server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zod": "^3.21.4"
+  }
+}
